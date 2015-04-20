@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\pre-dexed\debug\classes-f92185c01ec3c70db1dd83ba11a732757e4c5b42.jar" />
+    </item>
+    <item
+        jar="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\pre-dexed\debug\classes-33a8088e60740cb57dc10421c633e39e2cdfc45c.jar" />
+    </item>
+    <item
+        jar="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\pre-dexed\debug\classes-06f293ff47f4838514e79e83b168fedb94d07a92.jar" />
+    </item>
+    <item
+        jar="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\pre-dexed\debug\classes-a37f7a19968d039e7eb313e52572452ac51b61c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\pre-dexed\debug\classes-bc16dc26394ed31b526a596f0eebd3512d74b30f.jar" />
+    </item>
+    <item
+        jar="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\pre-dexed\debug\classes-8cd332251981a8dc0e71b2e54842e8e717e4c005.jar" />
+    </item>
+    <item
+        jar="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\pre-dexed\debug\classes-b7afa4aebd2714e1169b20a45de96f597b101f4a.jar" />
+    </item>
+    <item
+        jar="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\pre-dexed\debug\classes-6aba85beb209844db6fb9714b28738a0f1e4cf96.jar" />
+    </item>
+    <item
+        jar="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\pre-dexed\debug\classes-0589bffa1ea6074acba29481d1881d6236a285f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\pre-dexed\debug\classes-7942e2281f1fa1a01e6f4fe15454a7e07d6dd55b.jar" />
+    </item>
+    <item
+        jar="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-73d88e94dd5c1fed6180e18868dc75c67f3b7caa.jar" />
+    </item>
+    <item
+        jar="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\pre-dexed\debug\classes-0caa079cf15bfa7542d3cdbbd612ba8968a0efe8.jar" />
+    </item>
+    <item
+        jar="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\pre-dexed\debug\classes-45b152010a871a53c6e247463d3775cbb1f49a4b.jar" />
+    </item>
+    <item
+        jar="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\pre-dexed\debug\classes-d36234f5c10158e7cec43285c94afd6c9388fbcc.jar" />
+    </item>
+    <item
+        jar="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\pre-dexed\debug\classes-50b4ac81eb064d2f4a35acccb639d7a28ab412c6.jar" />
+    </item>
+    <item
+        jar="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\pre-dexed\debug\classes-f18a26e2cfa5e948089df14b9e493ff9e1bdb8e9.jar" />
+    </item>
+    <item
+        jar="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\pre-dexed\debug\classes-7b97fed67ccde5c9c6d190a66bd3fa89bc5aeaf3.jar" />
+    </item>
+    <item
+        jar="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\pre-dexed\debug\classes-19c5d5163c967004ca531ff729ac0f0abb478c8e.jar" />
+    </item>
+    <item
+        jar="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\pre-dexed\debug\classes-6e033891ec3db4c0af04290796a556e6c1056eca.jar" />
+    </item>
+    <item
+        jar="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\pre-dexed\debug\classes-ffed4be3958215ed4e1fc939211eb8e66066872e.jar" />
+    </item>
+    <item
+        jar="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\pre-dexed\debug\classes-1e4f51193881c11fd31edc61bd2adeca5396a717.jar" />
+    </item>
+    <item
+        jar="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\pre-dexed\debug\classes-e86e214b1cd5c6539a2904143c1c91dcb49c69b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\theb0483\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-0b80c893767b9b9379355267c4cd264d6cdf27fb.jar" />
+    </item>
+    <item
+        jar="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\pre-dexed\debug\classes-094cef2e12bc7fd02f9658fe958d3074b0b5ef40.jar" />
+    </item>
+    <item
+        jar="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\pre-dexed\debug\classes-ba3d951628bda3949607a1262e824749d9e70a9b.jar" />
+    </item>
+    <item
+        jar="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-7ec737312192455bd5000b1eb1d1c9d41629c3a5.jar" />
+    </item>
+    <item
+        jar="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\theb0483\AndroidStudioProjects\StormWatch\Application\build\intermediates\pre-dexed\debug\classes-8f7ceb1bdd1728e68b40ee80d06dc4f8cab5351a.jar" />
+    </item>
+
+</items>
